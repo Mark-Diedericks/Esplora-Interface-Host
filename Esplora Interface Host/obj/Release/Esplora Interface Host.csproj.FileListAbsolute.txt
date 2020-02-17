@@ -1,0 +1,7 @@
+C:\Users\mark.d\documents\visual studio 2015\Projects\Esplora Interface Host\Esplora Interface Host\bin\Release\Esplora Interface Host.exe.config
+C:\Users\mark.d\documents\visual studio 2015\Projects\Esplora Interface Host\Esplora Interface Host\bin\Release\Esplora Interface Host.exe
+C:\Users\mark.d\documents\visual studio 2015\Projects\Esplora Interface Host\Esplora Interface Host\bin\Release\Esplora Interface Host.pdb
+C:\Users\mark.d\documents\visual studio 2015\Projects\Esplora Interface Host\Esplora Interface Host\obj\Release\Esplora_Interface_Host.Properties.Resources.resources
+C:\Users\mark.d\documents\visual studio 2015\Projects\Esplora Interface Host\Esplora Interface Host\obj\Release\Esplora Interface Host.csproj.GenerateResource.Cache
+C:\Users\mark.d\documents\visual studio 2015\Projects\Esplora Interface Host\Esplora Interface Host\obj\Release\Esplora Interface Host.exe
+C:\Users\mark.d\documents\visual studio 2015\Projects\Esplora Interface Host\Esplora Interface Host\obj\Release\Esplora Interface Host.pdb
